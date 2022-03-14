@@ -7,9 +7,7 @@ var config = {
         "我的超人",
         "可爱的林奇志",  // 同上...
         "今天是你的生日",
-        "这是我们在一起的",
-        "不打第五人格的",
-        "第二个生日",
+        "你的三岁生日",
         "祝你身体健康",
         "心情愉快",
         "学业有成",
@@ -27,7 +25,7 @@ var config = {
      */
     
     imgs: {
-        "今天是你的生日": "./imgs/lqz.jpg",
+        "今天是你的生日": "./imgs/xiaokeai.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -38,6 +36,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "给你的祝福！",
     }
 };
